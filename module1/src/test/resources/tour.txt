@@ -1,0 +1,1 @@
+tourType:CRUISE,freeExcursion:true,duration:10,price:999,food:ALLINCLUSIVE,transport:BUS,excursionType:ACTIVE
