@@ -1,0 +1,5 @@
+by\training\module2\entity\ParagraphComposite.class
+by\training\module2\composite\TextComposite.class
+by\training\module2\entity\WordLeaf.class
+by\training\module2\composite\TextLeaf.class
+by\training\module2\entity\SentenceComposite.class
