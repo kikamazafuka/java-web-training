@@ -1,0 +1,4 @@
+number=1,name =Renault,weight= 1850,type=CAR, seatNumber=4
+number=2,name=Ford,weight=1700,type=CAR,seatNumber=4
+number=3,name=BMW,weight=2950,type=TRUCK,carryingCapacity=11
+number=4,name=Geely,weight=2050,type=CAR,seatNumber=4
