@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<devices>
+    <device critical="true" id="1" category="nonPeripheral">
+        <name>Processor</name>
+        <origin>Thailand</origin>
+        <price currency="byn">150</price>
+        <type>
+            <power unit="wt">20</power>
+            <cooling>Cooler</cooling>
+            <group>Microcircuit</group>
+            <port>LPT</port>
+        </type>
+    </device>
+
+    <device critical="true" id="2" category="nonPeripheral">
+        <name>RAM</name>
+        <origin>Thailand</origin>
+        <price currency="usd">50</price>
+        <type>
+            <power unit="wt">5</power>
+            <cooling>Radiator</cooling>
+            <group>Microcircuit</group>
+            <port>NONE</port>
+        </type>
+    </device>
+
+    <device critical="false" id="3" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">85</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="4" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>China</origin>
+        <price currency="usd">30</price>
+        <type>
+            <power unit="wt">5</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="true" id="5" category="nonPeripheral">
+        <name>Motherboard</name>
+        <origin>China</origin>
+        <price currency="usd">100</price>
+        <type>
+            <power unit="wt">20</power>
+            <cooling>Radiator</cooling>
+            <group>Microcircuit</group>
+            <port>NONE</port>
+        </type>
+    </device>
+
+    <device critical="false" id="6" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="7" category="Peripheral">
+        <name>Mouse</name>
+        <origin>Japan</origin>
+        <price currency="usd">20</price>
+        <type>
+            <power unit="wt">3</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="8" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>LPT</port>
+        </type>
+    </device>
+
+    <device critical="false" id="9" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="10" category="Peripheral">
+        <name>Printer</name>
+        <origin>Belarus</origin>
+        <price currency="usd">120</price>
+        <type>
+            <power unit="wt">25</power>
+            <cooling>None</cooling>
+            <group>Output</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="11" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="12" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="13" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>USA</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="14" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="usd">65</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>COM</port>
+        </type>
+    </device>
+
+    <device critical="false" id="15" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>China</origin>
+        <price currency="usd">80</price>
+        <type>
+            <power unit="wt">12</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+    <device critical="false" id="16" category="Peripheral">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price currency="pln">380</price>
+        <type>
+            <power unit="wt">17</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+
+</devices>

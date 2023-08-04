@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<devices>
+    <device critical="true" id="1">
+        <name>Processor</name>
+        <origin>1Thailand</origin>
+        <price unit="$">150</price>
+        <type>
+            <power unit="wt">20</power>
+            <cooling>Cooler</cooling>
+            <group>Microcircuit</group>
+            <port>NONE</port>
+        </type>
+    </device>
+
+    <device critical="true" id="2">
+        <name>RAM</name>
+        <origin>Thailand</origin>
+        <price unit="$">50</price>
+        <type>
+            <power unit="wt">5</power>
+            <cooling>Radiator</cooling>
+            <group>Microcircuit</group>
+            <port>NO</port>
+        </type>
+    </device>
+
+    <device critical="true" id="2">
+        <name>Keyboard</name>
+        <origin>Belarus</origin>
+        <price unit="$">80</price>
+        <type>
+            <power unit="wt">15</power>
+            <cooling>None</cooling>
+            <group>Input</group>
+            <port>USB</port>
+        </type>
+    </device>
+
+
+
+</devices>
